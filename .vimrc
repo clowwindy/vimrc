@@ -5,6 +5,7 @@ set history=1000
 syntax on
 set autoindent
 set smartindent
+set expandtab
 set tabstop=4
 set shiftwidth=4
 set vb t_vb=
