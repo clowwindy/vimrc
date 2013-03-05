@@ -13,7 +13,7 @@ set ruler
 set nohls
 set incsearch
 set showmatch
-set mouse=a
+set mouse=
 
 if has("multi_byte")
 	set encoding=utf-8
